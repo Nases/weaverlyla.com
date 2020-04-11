@@ -1,0 +1,19 @@
+{
+  "name": "weaverlyla.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "save": "git add . && git commit -m '🔹' && git push -u origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nases/weaverlyla.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nases/weaverlyla.com/issues"
+  },
+  "homepage": "https://github.com/Nases/weaverlyla.com#readme"
+}
